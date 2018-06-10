@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#計算
 function PrimeNumber() {
     local LOOP_START_NUMBER=2
     local NO_CHECK_NUMBER=3
